@@ -1,0 +1,29 @@
+{
+  "name": "soen487a3",
+  "version": "1.0.0",
+  "description": "## demo website Here is a link for the demo website https://financeshify.herokuapp.com/",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VickelLeung/SOEN487_A3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VickelLeung/SOEN487_A3/issues"
+  },
+  "homepage": "https://github.com/VickelLeung/SOEN487_A3#readme",
+  "keywords": []
+}
